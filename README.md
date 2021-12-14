@@ -1,4 +1,4 @@
-# Trip List
+# Packing List
 
 ![packing a suitcase](https://media.giphy.com/media/10b2mfpiglNd4c/giphy.gif)
 
