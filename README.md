@@ -35,4 +35,3 @@ This is the LAST DAY of your advent calendar! I strongly encourage you to reflec
 ## BONUS
 * Anything you can think off! Add an additional feature, experiment with an NPM package of your choosing, focus on writing tests for this, make it responsive, add some animations. You're in charge!
 * There's a DELETE method in the API you're using. Is there a way you could use this to get rid of an item once its packed? You'll need to make this clear on the user interface. 
-* Have fun!
