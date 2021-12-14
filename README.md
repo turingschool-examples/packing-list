@@ -6,3 +6,9 @@ Your MVP is to create an application that:
 * displays a list of all items pack
 * takes in user input to add a new item to pack
 * updates to display the new item in the list 
+
+
+![user interface](https://github.com/turingschool-examples/packing-list/blob/main/ui.png)
+
+
+![modal open](https://github.com/turingschool-examples/packing-list/blob/main/modal.png)
