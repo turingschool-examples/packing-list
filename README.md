@@ -16,7 +16,7 @@ Follow the instructions in the README to run [this packing list API](https://git
 
 ## HTML && CSS
 
-You have been given a basic HTML and CSS layout to work with (plus some JS to get the modal showing up). Before building out this app, decide how much you want to work on HTML and CSS with this project. 
+You have been given a basic (boring) HTML and CSS layout to work with (plus some JS to get the modal showing up). Before building out this app, decide how much you want to work on HTML and CSS with this project. 
 * **LOTS** - Totally ignore this starter repo and make your own from scratch!!
 * **SOME** - Fork this repo, and edit the HTML and CSS given to you. Add some flair however you see fit!
 * **NONE** - All good, just use this HTML and CSS as is!
